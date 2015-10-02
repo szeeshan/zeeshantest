@@ -25,13 +25,14 @@ if(!Array.isArray) {
     return Object.prototype.toString.call(arg) === '[object Array]';
   };
 };/**
- * @license wysihtml5x v0.4.15
+ 
  * https://github.com/Edicy/wysihtml5
  *
- * Author: Christopher Blum (https://github.com/tiff)
- * Secondary author of extended features: Oliver Pulges (https://github.com/pulges)
+ * @Author  ZEESHAN
+ * @version 1.1.9
+ * @license MIT <http://opensource.org/licenses/MIT>
  *
- * Copyright (C) 2012 XING AG
+ * Copyright (C) 2015
  * Licensed under the MIT license (MIT)
  *
  */

@@ -1,22 +1,22 @@
 Introduction
 ============
 
-**AdminLTE** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+**Admin Panel** -- is a fully responsive admin template. Based on **[Bootstrap 3](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
 
-**Download & Preview on [Almsaeed Studio](https://almsaeedstudio.com)**
+**Download & Preview on [Zeeshan](https://almsaeedstudio.com)**
 
 Looking for Premium Templates?
 ------------------------------
 **Almsaeed studio just opened a new premium templates page. Hand picked to insure the best quality and the most affordable prices. Visit https://almsaeedstudio.com/premium for more information.**
 
 
-!["AdminLTE Presentation"] (https://almsaeedstudio.com/AdminLTE2.png "AdminLTE Presentation")
+!["Admin Panel Presentation"] (https://almsaeedstudio.com/Admin Panel2.png "Admin Panel Presentation")
 
-**AdminLTE** has been carefully coded with clear comments in all of its JS, LESS and HTML files. LESS has been used to increase code customizability.
+**Admin Panel** has been carefully coded with clear comments in all of its JS, LESS and HTML files. LESS has been used to increase code customizability.
 
 Installation
 ------------
-There are multiple ways to install AdminLTE.
+There are multiple ways to install Admin Panel.
 
 ####Download:
 
@@ -29,7 +29,7 @@ Download from Github or [visit Almsaeed Studio](https://almsaeedstudio.com) and 
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
 - Clone to your machine
 ```
-git clone https://github.com/YOUR_USERNAME/AdminLTE.git
+git clone https://github.com/YOUR_USERNAME/Admin Panel.git
 ```
 
 **Bower**
@@ -41,12 +41,12 @@ bower install admin-lte
 **Composer**
 
 ```
-composer require "almasaeed2010/adminlte=~2.0"
+composer require "zeeshan/admin=~1.1.9"
 ```
 
 Documentation
 -------------
-Visit the [online documentation](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html) for the most
+Visit the [online documentation](https://almsaeedstudio.com/themes/Admin Panel/documentation/index.html) for the most
 updated guide. Information will be added on a weekly basis.
 
 Browser Support
@@ -62,7 +62,7 @@ Contribution
 Contribution are always **welcome and recommended**! Here is how:
 
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/AdminLTE.git```
+- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/Admin Panel.git```
 - Make your changes
 - Create a pull request
 
@@ -75,7 +75,7 @@ Contribution are always **welcome and recommended**! Here is how:
 
 License
 -------
-AdminLTE is an open source project by [Almsaeed Studio](https://almsaeedstudio.com) that is licensed under [MIT](http://opensource.org/licenses/MIT). Almsaeed Studio
+Admin Panel is an open source project by [Almsaeed Studio](https://almsaeedstudio.com) that is licensed under [MIT](http://opensource.org/licenses/MIT). Almsaeed Studio
 reserves the right to change the license of future releases.
 
 Todo List
@@ -88,7 +88,7 @@ Todo List
 
 Legacy Realeases
 ----------------
-AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html#upgrade), but if you intend to keep using AdminLTE 1.x, you can download the latest release from the [releases](https://github.com/almasaeed2010/AdminLTE/releases) section above.
+Admin Panel 1.x can be easily upgraded to 2.x using [this guide](https://almsaeedstudio.com/themes/Admin Panel/documentation/index.html#upgrade), but if you intend to keep using Admin Panel 1.x, you can download the latest release from the [releases](https://github.com/almasaeed2010/Admin Panel/releases) section above.
 
 Change log
 ----------
@@ -219,4 +219,4 @@ Donations
 ---------
 Donations are **greatly appreciated!**
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "AdminLTE Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif "Admin Panel Presentation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=629XCUSXBHCBC "Donate")

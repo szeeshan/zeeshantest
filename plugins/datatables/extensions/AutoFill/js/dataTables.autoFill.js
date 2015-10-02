@@ -7,7 +7,6 @@
  * @description Add Excel like click and drag auto-fill options to DataTables
  * @version     1.2.1
  * @file        dataTables.autoFill.js
- * @author      SpryMedia Ltd (www.sprymedia.co.uk)
  * @contact     www.sprymedia.co.uk/contact
  * @copyright   Copyright 2010-2014 SpryMedia Ltd.
  *

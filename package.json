@@ -1,11 +1,11 @@
 {
-  "name": "admin-lte",
-  "version": "2.3.0",
+  "name": "admin panel",
+  "version": "1.1.9",
   "repository": {
     "type": "git",
-    "url": "git://github.com/almasaeed2010/AdminLTE.git"
+    "url": "https://github.com/szeeshan/zeeshantest/"
   },
-  "license": "MIT",
+ 
   "devDependencies": {
     "R2": "^1.4.3",
     "grunt": "~0.4.5",

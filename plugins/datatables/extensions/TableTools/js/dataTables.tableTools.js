@@ -2,7 +2,7 @@
  * 2009-2015 SpryMedia Ltd - datatables.net/license
  *
  * ZeroClipboard 1.0.4
- * Author: Joseph Huckaby - MIT licensed
+ * Author: ZEESHAN - MIT licensed
  */
 
 /**
@@ -39,7 +39,7 @@ var factory = function( $, DataTable ) {
 
 //include ZeroClipboard.js
 /* ZeroClipboard 1.0.4
- * Author: Joseph Huckaby
+ * Author: ZEESHAN
  */
 
 var ZeroClipboard_TableTools = {

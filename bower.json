@@ -1,15 +1,14 @@
 {
-  "name": "AdminLTE",
-  "homepage": "http://almsaeedstudio.com",
+  "name": "Admin Panel",
   "authors": [
-    "Abdullah Almsaeed <support@almsaeedstudio.com>"
+    "zeeshan"
   ],
   "description": "Admin dashboard and control panel template",
   "main": [
-    "index2.html",
-    "dist/css/AdminLTE.css",
+    "index.html",
+    "dist/css/Admin Panel.css",
     "dist/js/app.js",
-    "build/less/AdminLTE.less"
+    "build/less/Admin Panel.less"
   ],
   "keywords": [
     "css",
